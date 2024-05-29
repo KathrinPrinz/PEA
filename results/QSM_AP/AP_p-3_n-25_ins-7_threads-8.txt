@@ -1,0 +1,20 @@
+//* QSM_general_Information: *//
+AP_p-3_n-25_ins-7_threads-8.dat
+#NDP: 4315
+#Rec: 18405
+#IP: 10516
+#threads: 8
+Time: 556012094
+//* 2D-NDP_Search Information- First IP (number of infeasible IPs is shown in parentheses): *//
+#S: 6201 (73)
+#A: 12204 (325)
+//* 2D-NDP_Search Information- Second IP: *//
+#S: 4315
+#A: 1813
+//* Summation of runtime associated with the first and second IPs: *//
+First IP: 350062186
+Second IP: 191951950
+//* Summation of runtime for other parts of code: *//
+Searching For Feasible Solution: 1154896
+Searching For Feasible Relaxation: 6530
+Searching For Infeasible Relaxation: 11177
