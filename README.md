@@ -29,15 +29,15 @@ In the second round of experiments we further investigated the scaling of PEA wi
 
 <a id="1">[1]</a>
 Prinz, K., Ruzika, S. (2024)
-The Parallel Epsilon Algorithm for Tri-Objective Integer Optimization Problems.
+The Parallel Epsilon Algorithm for tri-objective integer optimization problems.
 
 <a id="2">[2]</a>
-Boland, S., Charkhgard, H., Saveksbergh, M. (2017)
-The Quadrant Shrinking Method: A simple and efficient algorithm for solving tri-objective  integer programs.
-European Journal of Operational Research
+Boland, N., Charkhgard, H., Savelsbergh, M. (2017)
+The Quadrant Shrinking Method: A simple and efficient algorithm for solving tri-objective integer programs.
+European Journal of Operational Research 260(3):873–885
 
 <a id="3">[3]</a>
 Kirlik, G., Sayın, S. (2014)
 A new algorithm for generating all nondominated solutions of multiobjective discrete optimization problems.
-European Journal of Operational Research 
+European Journal of Operational Research 232(3):479–488
 
