@@ -1,0 +1,29 @@
+
+Using improved algorithm at 01c9fda236cdf6ddd4d66aba278da2bf19af2350
+50	40	32	
+45	33	34	
+43	51	31	
+40	47	37	
+39	43	41	
+38	33	53	
+37	55	36	
+35	49	39	
+35	38	56	
+34	60	42	
+29	29	59	
+28	66	39	
+28	33	58	
+24	39	45	
+23	43	44	
+22	54	47	
+22	37	63	
+20	52	54	
+18	47	67	
+17	43	71	
+16	61	47	
+
+---
+   0.439 CPU seconds
+   0.090 elapsed seconds
+     257 IPs solved
+      21 Solutions found

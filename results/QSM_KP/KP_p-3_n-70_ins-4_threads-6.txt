@@ -1,0 +1,20 @@
+//*  QSM_general_Information:  *//
+/users/cip/users/prinz/cpp/QSM_server_steady_clock/kirlik/KP_p-3_n-70_ins-4.dat
+#NDP: 1113
+#Rec: 27411
+#IP: 3308
+#threads: 6
+Time: 101525118
+//*  2D-NDP_Search Information- First IP (number of infeasible IPs is shown in parentheses):  *//
+#S: 2195 (44)
+#A: 25216 (966)
+//*  2D-NDP_Search Information- Second IP:  *//
+#S: 1113
+#A: 1038
+//*  Summation of runtime associated with the first and second IPs:  *//
+First IP: 74936689
+Second IP: 25156332
+//*  Summation of runtime for other parts of code:  *//
+Searching For Feasible Solution: 422932
+Searching For Feasible Relaxation: 2059
+Searching For Infeasible Relaxation: 4000
